@@ -18,7 +18,7 @@ Este projeto foi desenvolvido visando o desafio técnico lançado pela [Ebix](ht
 4) Expor o serviço do passo 3 como REST (utilizando JAX-RS)
     - A solução para esta atividade se encontra sob o pacote src/main/java/br/com/ebix/oportunidade/dasafiotecnico/correios/rest
 
-Obs: Os artefatos gerados pelo consumo do WSDL do item 3 estão sob a pasta target/generated/cxf
+Obs: Os artefatos gerados pelo consumo do WSDL do item 3 estão sob a pasta src/generated/cxf
 
 ## Construindo
 

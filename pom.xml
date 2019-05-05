@@ -76,7 +76,7 @@
 						<id>generate-sources</id>
 						<phase>generate-sources</phase>
 						<configuration>
-							<sourceRoot>${project.build.directory}/generated/cxf</sourceRoot>
+							<sourceRoot>${project.basedir}/src/generated/cxf</sourceRoot>
 							<wsdlOptions>
 								<wsdlOption>
 									<wsdl>${project.basedir}/src/main/resources/wsdl/AtendeCliente.wsdl</wsdl>
